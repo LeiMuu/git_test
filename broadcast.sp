@@ -23,6 +23,9 @@ Versions:
 		* Added volume control cvar sm_cheer_jeer_volume
 		* Added jeer limit cvat sm_cheer_jeer_limit
 		* Added count infomation to limit displays
+		
+	1.4
+		* Test for Git!!!
 */
 
 
