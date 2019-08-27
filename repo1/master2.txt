@@ -1,1 +1,3 @@
-平行操作步驟4 master新增後 下一步 將分支noob先行合併到master
+平行操作步驟4 master新增後
+------合併noob後的第一次操作------
+下一步 將分支noob先行合併到master
