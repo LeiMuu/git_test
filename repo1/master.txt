@@ -1,0 +1,1 @@
+這是平行操作步驟3-先使master commit push 一筆新紀錄後再開始noob noob2依序合併
